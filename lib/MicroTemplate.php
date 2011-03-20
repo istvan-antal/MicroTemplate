@@ -2,7 +2,7 @@
 /*
  * MicroTemplate
  *
- * This is a realy simple and small templating engine that encourages the proper
+ * This is a really simple and small templating engine that encourages the proper
  * use of PHP as a templating language.
  *
  * Copyright (C) 2011 István Miklós Antal <istvan.m.antal@gmail.com>.
